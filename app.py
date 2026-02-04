@@ -87,7 +87,7 @@ def get_layout(title, content):
 
         <div class="footer">
             © 2026 Veera Sir – Naresh IT <br>
-            Multi-Cloud DevOps | AWS | Azure | GCP | Kubernetes | Terraform
+            Multi-Cloud DevOps | AWS | Azure | GCP | Kubernetes | Terraform | Ansible
         </div>
 
     </body>
