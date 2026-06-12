@@ -103,7 +103,7 @@ def home():
 
         <p>
             Welcome to the <b>industry-oriented Multi-Cloud DevOps Training</b> designed by
-            <b>Veera Sir</b> at <b>Naresh IT</b>.
+            <b>Veera Sir</b> at <b>Naresh ITT</b>.
         </p>
 
         <p>
