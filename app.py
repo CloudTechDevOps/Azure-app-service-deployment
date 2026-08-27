@@ -174,7 +174,7 @@ def home():
     <div class="card">
         <h2 style="color:#ff6699;">Why Naresh IT & Veera Sir?</h2>
         <ul>
-            <li>12+ years excellence</li>
+            <li>14+ years excellence</li>
             <li>Real-time trainer</li>
             <li>Interview focused</li>
             <li>Mock interviews</li>
